@@ -1,2 +1,6 @@
 # Thomas-Fermi
-In this project,  we propose Hermite collocation method for solving Thomas-Fermi equation that is nonlinear ordinary differential equation on semi-infinite interval. This method reduces the solution of this problem to the solution of a system of algebraic equations. We also present the comparison of this work with solution of other methods that shows the present solution is more accurate and faster convergence in this problem.
+Here is all the implementations of the following publication:
+
+F. Bayatbabolghani, K. Parand. Using Hermit functions for solving Thomas-Fermi equation, to International Journal of Mathematical, Computational Science and Engineering 2014 
+
+Our implementations were built in Maple 2013.
